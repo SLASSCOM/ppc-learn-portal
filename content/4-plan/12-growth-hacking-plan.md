@@ -50,6 +50,7 @@ checklist:
     expectation: Innovation accounting done on the experiments to identify the most effective growth hacking tactics for your business.
     version: 1.0.0
 ---
+# [Plan](../4-plan.md) > Growth Hacker Plan
 
 ## Why
 

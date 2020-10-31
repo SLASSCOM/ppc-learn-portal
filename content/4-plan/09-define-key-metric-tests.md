@@ -9,7 +9,7 @@ metaTags:
   - Winning Product
   - Customer Success
 ---
-
+# [Plan](../4-plan.md) > Define Key Metric Tests
 
 ## Why
 "What gets measured gets done" is a well-known statement. Measurements are a great tool to track the progress of your business objectives. Tracking your progress against key metrics helps to take decisions for improvements. They act as evidence of the claim or prediction.

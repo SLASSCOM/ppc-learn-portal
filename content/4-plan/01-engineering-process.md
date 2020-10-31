@@ -46,7 +46,7 @@ checklist:
     expectation: A documented process clearly indicating why it has been selected eg. ability to translate business needs into a features to be engineered.
     version: 1.0.0
 ---
-
+# [Plan](../4-plan.md) > Project Process
 
 ## Why
 "Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – Winston Churchill

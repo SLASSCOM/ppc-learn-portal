@@ -26,7 +26,7 @@ metaTags:
     expectation: Defined KPI which has been communicated to team members
     version: 1.0.0
 ---
-
+# [Plan](../4-plan.md) > Team Structure
 
 ## Why
 A proper team structure is required to efficiently deliver values to customers. A team can perform at its best when there is clear communication and when everyone is clear on their role in the team. Good team structures consider the competencies and focus of individuals and uses these to achieve both individual objectives of team members and the larger team goals.

@@ -25,7 +25,7 @@ checklist:
     expectation: You can measure the quality of the onboarding process by gathering data via surveys, interviews, feedbacks etc...
     version: 1.0.0
 ---
-
+# [Plan](../4-plan.md) > Customer Onboarding
 
 ## Why
 This is the process of helping new customers get started and stay engaged. It’s a series of steps and resources that help to incorporate a product into the user’s routine easily.

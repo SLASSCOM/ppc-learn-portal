@@ -26,7 +26,7 @@ metaTags:
     expectation: There should be clear analysis to accomodate entities belonging to Sql and NoSql with their indexing and associated costs
     version: 1.0.0
 ---
-
+# [Plan](../4-plan.md) > Detailed Data Schema
 
 ## Why
 Every product is exposed to a variety of user data. However, the way in which they are stored and accessed can make a huge difference in productivity. Your business needs to capture enough information to support future requirements but should only capture enough data to minimize storage solutions overload. How you define relationships among data entities has a direct impact on data retrieval performance. Considering all these, it’s important to establish a detailed data schema to determine what data needs to be stored and how they are related.

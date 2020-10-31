@@ -26,7 +26,7 @@ metaTags:
     expectation: Ability to decouple deployments from releases
     version: 1.0.0
 ---
-
+# [Plan](../4-plan.md) > Delivery Pipeline
 
 ## Why
 CI/CD (Continuous Integration/Continuous Deployment) implementation allows a fast flow of work from your development to production while ensuring the quality of all development changes. With a good DevOps pipeline, you can make sure that your automated tests are run with each build. This makes it easier to catch bugs earlier in the development life cycle. It also automates the deployment of infrastructure such as Databases, Storage Queues, Web Servers, etc. making little room for human errors. With all this, a CI/CD pipeline ultimately allows you greater confidence in product development that’s critical for a fast flow of work.
