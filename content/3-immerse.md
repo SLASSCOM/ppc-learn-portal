@@ -10,7 +10,7 @@ published: true
 Once the focus (niche) is defined, it’s time to delve into to the details required for solving the problem. During the immerse stage, you can consider solution's features, associated costs, timelines, etc. A lot of 'what if' analysis takes place and the base artifacts that are required for detailed planning are generated here.
 
 - [Brand Guide:](./3-immerse/01-brand-guide.md) Define the brand personality of the product including composition, design & visual theme, general look-and-feel, logo, name, etc.
-- [Data Architecture:](./3-immerse/02-data-architecture.md) Data architecture is composed of models, policies and rules or standards that govern which data is collected, data relationships, how it is stored, arranged, integrated, and processed. #DataModel
+- [Data Architecture:](./3-immerse/02-data-architecture.md) Data architecture is composed of models, policies and rules or standards that govern which data is collected, data relationships, how it is stored, arranged, integrated, and processed.
 - [Positioning Message:](./3-immerse/03-positioning-messages.md) Positioning Message is a concrete message to test against the target market. It could be a tagline, short pitch, or an ad message. This will eventually be the way that the product is defined by consumers on important attributes.
 - [Engineering Estimations:](./3-immerse/04-development-estimations.md) Estimate the development efforts for functional and non-functional features. #CostBook
 - [Operational Costing:](./3-immerse/05-operational-costs.md) Run cost estimations on operations including infrastructure and training. #CostBook
