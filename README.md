@@ -14,7 +14,7 @@ The market trend is lucrative. Despite that trend, many Software Products fail. 
 
 Let’s face the facts. Creating a market winning (leading) product is not easy. If that’s your goal, you need a massive amount of additional knowledge and skills beyond typical software development. You’re going to need a broader sense of the domain, market trends, product management techniques, customer engagement ability as well as resilient engineering capabilities. These skills are not taught at universities or gained through general software development work. “Winning Product” equips you with these tools to help you attain that market leading edge.
 
-## Products require additional skills than mere software development
+## Products require advanced skills than mere software development
 
 Common mistake of novice product teams is that they overlook the specialty of 'product' development. Product development is vastly different from bespoke/enterprise application development. Following sections outline some of the reasons behind the differences.
 
@@ -36,9 +36,7 @@ Your team's culture, attitude and the mindset is an important factor to succeed 
 
 As per [winningroduct.com](https://www.winningproduct.com/) the product's lifecycle can be divided into 8 stages. Unlike the Waterfall phases they are iterative at product level, module level and even at feature level. These stages differ in subtle but important ways. By understanding the focus of each stage, you can understand the strategic activities within it.
 
-```
-You can click on each stage to see the detailed topics to learn.
-```
+> *You can click on each stage to see the detailed topics to learn.*
 
 | Stage        | Description          |
 |:-------------|:------------------|
@@ -50,6 +48,8 @@ You can click on each stage to see the detailed topics to learn.
 | [Optimize](./content/6-optimize.md)           | Once you reach this stage, all your major assumptions should be validated. Product UVP must be clear and willingness of the customers to pay for that value proposition needs be confirmed. This means most of the core features are available and tested by your early customers during the 'Build' stage.During optimize, you tune the product further to achieve maximum performance. You also carry out testing required for it to be adapted by a bigger scale of customers. This means the product quality, stability, visual appearance, onboarding procedures, etc. should be made world-class during this stage. |
 | [Harvest](./content/7-harvest.md)           | This is where your product returns back the investment. The focus of this stage is to retain happy and loyal customers, up sell more and get referrals to grow the business. You need very stable operational processes to respond to the customer issues and inquiries. Build and tune your sales and marketing processes to capture a greater market share. |
 | [Retire](./content/8-retire.md)           | Regardless of how well the product is built and maintained, there is always a retirement time for products. Retirement can be called upon by a major technology or user behavior change in the marketplace. At this point you re-invent the technology platform / business model / user experience to keep an edge in the market. You should be watchful to identify this need so that they are able to disrupt their own business model before a competitor does. When a next gen product is planned, it’s important to do it with minimal disturbance to the existing customers. You need to have clear and pain-free migration paths available and provide incentives/motivation for them to move-on. Long-term side-by-side operation of 2 major versions can be an extremely costly operation. For this reason, you must plan to complete migrating all your customers within a planned time span. |
+
+* * *
 
 ## How to contribute to this portal
 
