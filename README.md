@@ -1,6 +1,6 @@
 # PPC Academy
 
-An initiative by [SLASSCOM](http://slasscom.lk), the Product and Platform Council operate with the vision to build capability that would enable Sri Lankan enterprises to create high technology products and platforms that would attract global demand.
+The Product and Platform Council, an initiative by [SLASSCOM](http://slasscom.lk),  operates with the vision to develop capability that would enable Sri Lankan enterprises to create high tech products and platforms to attract global demand.
 
 This learning portal is a part of PPC Training and Academy to provide the essential knowledge required to build such products and platforms.
 
