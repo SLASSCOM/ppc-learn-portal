@@ -25,6 +25,7 @@ checklist:
     expectation: It is important that the findings and notes captured in this process is properly recorded for future purposes. These early feedback then needs to be taken into planning and should eventually needs to end up at the product road map.
     version: 1.0.0
 ---
+# Low Fidelity Prototype
 
 ## Why
 The first and most important role of lo-fi prototypes is to check and test functionality rather than the visual appearance of the product. The whole idea is to make it look like a sketch, so that nobody feels bad changing/challenging it.

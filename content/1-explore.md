@@ -5,7 +5,7 @@ metaDescription: "Consider diverse alternatives to solve an identified problem."
 published: true
 ---
 
-## Explore Stage
+## Stage: Explore
 
 This is the initial stage where the founder conceives the idea to solve a problem he/she identified. It’s important at this stage to take a holistic view of the problem domain and broadly explore. This is where you explore different possibilities before locking down on a focused product concept.
 
