@@ -25,6 +25,7 @@ checklist:
     expectation: Monitoring to gather data from all deployed resources ensure that the throughput KPIs are met and the limitations are communicated to the entire team . Overview of monitoring mechanisms.
     version: 1.0.0
 ---
+# [Harvest](../7-harvest.md) > Scalability Verification
 
 ## Why
 Products need to scale up as the user base grows. If not, the user expectance for existing users may continue to shrink. Thankfully, modern cloud vendors provide mechanisms to both scale-up and scale-out effortlessly. If the architecture is done properly, your product can remain small with a minimum cost footprint at the inception and pay as you go as the product gets bigger.

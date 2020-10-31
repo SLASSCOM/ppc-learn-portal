@@ -9,6 +9,7 @@ metaTags:
   - Winning Product
   - Technology Mastery
 ---
+# [Harvest](../7-harvest.md) > Hot-fix Process
 
 ## Why
 

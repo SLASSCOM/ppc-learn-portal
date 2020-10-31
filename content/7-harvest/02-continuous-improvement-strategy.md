@@ -25,6 +25,7 @@ metaTags:
   - Winning Product
   - Market Sense
 ---
+# [Harvest](../7-harvest.md) > Continuous Improvement Strategy
 
 ## Why
 

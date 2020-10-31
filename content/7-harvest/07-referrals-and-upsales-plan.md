@@ -25,6 +25,7 @@ checklist:
     expectation: Referral goals like referring X number of people or earning Y points, average upsales brings by new customers into the business from referrals.
     version: 1.0.0
 ---
+# [Harvest](../7-harvest.md) > Referrals and Upsales Plan
 
 ## Why
 
