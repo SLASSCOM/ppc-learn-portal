@@ -25,7 +25,7 @@ checklist:
     expectation: The competitive analysis template should assess all your competitors against the key competitive advantages, target market, market share, product and services, and marketing strategy.
     version: 1.0.0
 ---
-# Competitor Analysis
+# [Explore](../1-explore.md) > Competitor Analysis
 
 ## Why
 By measuring your products or service against competition allows you to position the product in the market effectively. The continuous monitoring of market dynamics will help you respond to market changes in timely manner.

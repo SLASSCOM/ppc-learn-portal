@@ -16,7 +16,7 @@ checklist:
     expectation: Create a user jouney map for your product. Document it in one place for future reference.
     version: 1.0.0
 ---
-# User Journey
+# [Explore](../1-explore.md) > User Journey
 
 ![User journey map](../../img/user-jorney-map.png)  
 

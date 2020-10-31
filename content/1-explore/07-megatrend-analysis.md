@@ -20,7 +20,7 @@ checklist:
     expectation: Maintain a shared understanding regarding important megatrends through a document.
     version: 1.0.0
 ---
-# Megatrend Analysis
+# [Explore](../1-explore.md) > Megatrend Analysis
 
 ## Why
 
