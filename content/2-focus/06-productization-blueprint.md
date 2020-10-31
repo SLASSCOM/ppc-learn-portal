@@ -30,7 +30,7 @@ checklist:
     expectation: This is especially needed when there is a portfolio of applications. Your product design should take necessary steps to have consistency among all applications.
     version: 1.0.0        
 ---
-# Productization Blueprint
+# [Focus](../2-focus.md) > Productization Blueprint
 
 ## Why
 
