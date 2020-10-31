@@ -32,7 +32,7 @@ metaTags:
   - Winning Product
   - User Experience
 ---
-
+# [Optimize](../6-optimize.md) > Analytics Review Process
 
 ## Why
 The collection and analysis of data can be used to make important business decisions based on product performance and users' behavior. For instance, it can be used to identify market patterns, ways to optimize (including SEO and conversions), and to analyze impacts after business decisions.

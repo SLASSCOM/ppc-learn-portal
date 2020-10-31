@@ -25,6 +25,7 @@ checklist:
     expectation: It is important to have a mechanism to renew contracts especially in a long running service level agreements. Renewals should facilitate price and other parameter adjustments if needed.
     version: 1.0.0
 ---
+# [Optimize](../6-optimize.md) > Customer Contract Management
 
 ## Why
 Contracts are inevitable for any business when signing on new customers or partners. Also, Service-Level Agreements (SLAs) are increasingly becoming a critical component of any technology product vendor contract. Typically, an SLA defines the level of service a customer expects from a product vendor. It lays out the metrics by which service is measured, as well as remedies or penalties for agreed-on service levels that are not achieved.

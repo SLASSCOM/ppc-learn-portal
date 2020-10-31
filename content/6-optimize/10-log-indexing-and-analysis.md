@@ -26,6 +26,7 @@ checklist:
     expectation: Identity how to collect, store, index, and analysis log data with tools and techniques that are right for you. 
     Version: 1.0.0
 ---
+# [Optimize](../6-optimize.md) > Log Indexing and Analysis
 
 ## Why
 Logs provide visibility into the health, security, and performance of an application and infrastructure stack. It enables developer teams and system administrators to more easily diagnose incidents and rectify production issues. Uncovering this intelligence can guide your business decisions, investigations, and security.

@@ -25,6 +25,7 @@ checklist:
     expectation: The organization should strive to get certified on relevant regulatory requirements such as ISO, etc... For those requirements where there is no specific certification, try to get a reputed audit organization to assess and confirm the conformity.
     version: 1.0.0
 ---
+# [Optimize](../6-optimize.md) > Compliance and Approvals
 
 ## Why
 Many domains and countries have standards and regulations that software products must comply with. In this strategic activity, product teams understand the difference between product quality and product compliance. Keeping software products compliant is no small effort. Product certification (compliance) or product qualification (approvals) is the process of certifying that a certain product meets qualification criteria stipulated in contracts, regulations, or specifications of industry standards. The most common product compliances include ISO 27001, the international standard for an ISMS (Information Security Management System), privacy regulations such as the EU General Data Protection Regulation (GDPR).
