@@ -4,9 +4,13 @@ The Product and Platform Council, an initiative by [SLASSCOM](http://slasscom.lk
 
 This learning portal is a part of PPC Training and Academy to provide the essential knowledge required to build such products and platforms.
 
+* * *
+
 ## Software Product and Platform Market
 
 Every year, many ISVs (Independent Software Vendors) and Startups invest on digital services and products to develop and sustain their business. According to researchandmarkets.com the market size for SaaS (Software as a Service) alone, worthed $134.44 billion in 2018. This market growth is at a CAGR of 13.1% and believed to reach a staggering $220.21 billion by 2022.
+
+* * *
 
 ## Despite Growth, Most Products Fail
 
@@ -14,20 +18,28 @@ The market trend is lucrative. Despite that trend, many Software Products fail. 
 
 Let’s face the facts. Creating a market winning (leading) product is not easy. If that’s your goal, you need a massive amount of additional knowledge and skills beyond typical software development. You’re going to need a broader sense of the domain, market trends, product management techniques, customer engagement ability as well as resilient engineering capabilities. These skills are not taught at universities or gained through general software development work. “Winning Product” equips you with these tools to help you attain that market leading edge.
 
+* * *
+
 ## Products require advanced skills than mere software development
 
 Common mistake of novice product teams is that they overlook the specialty of 'product' development. Product development is vastly different from bespoke/enterprise application development. Following sections outline some of the reasons behind the differences.
 [Continue Reading...](./content/introduction/02-products-are-different.md)
+
+* * *
 
 ## Products should excel in multiple areas
 
 In our experience, broadly, there are four areas your team must excel in developing a market winning product. You will find the importance and the descriptions of these 4 'areas of excellence' below.
 [Continue Reading...](./content/introduction/03-areas-of-excellence.md)
 
+* * *
+
 ## Team should embrace the Product Mindset
 
 Your team's culture, attitude and the mindset is an important factor to succeed in the product space. Below are some traits important to cultivate in your teams.
 [Continue Reading...](./content/introduction/06-winning-product-mindset.md)
+
+* * *
 
 ## PPC Academy Topics
 
@@ -45,25 +57,3 @@ As per [winningroduct.com](https://www.winningproduct.com/) the product's lifecy
 | [Optimize](./content/6-optimize.md)           | Once you reach this stage, all your major assumptions should be validated. Product UVP must be clear and willingness of the customers to pay for that value proposition needs be confirmed. This means most of the core features are available and tested by your early customers during the 'Build' stage.During optimize, you tune the product further to achieve maximum performance. You also carry out testing required for it to be adapted by a bigger scale of customers. This means the product quality, stability, visual appearance, onboarding procedures, etc. should be made world-class during this stage. |
 | [Harvest](./content/7-harvest.md)           | This is where your product returns back the investment. The focus of this stage is to retain happy and loyal customers, up sell more and get referrals to grow the business. You need very stable operational processes to respond to the customer issues and inquiries. Build and tune your sales and marketing processes to capture a greater market share. |
 | [NextGen](./content/8-retire.md)           | Regardless of how well the product is built and maintained, there is always a retirement time for products. Retirement can be called upon by a major technology or user behavior change in the marketplace. At this point you re-invent the technology platform / business model / user experience to keep an edge in the market. You should be watchful to identify this need so that they are able to disrupt their own business model before a competitor does. When a next gen product is planned, it’s important to do it with minimal disturbance to the existing customers. You need to have clear and pain-free migration paths available and provide incentives/motivation for them to move-on. Long-term side-by-side operation of 2 major versions can be an extremely costly operation. For this reason, you must plan to complete migrating all your customers within a planned time span. |
-
-* * *
-
-## How to contribute to this portal
-
-1. Fork the Github repository
-2. Find your knowledge area in the models folder
-3. Fill the given template (Included in each area document) with the following content
-4. Subtitle - (140 maximum words)
-5. Add a featured image representing the content - (Please check the copyrights using google image settings)
-6. Description - (160 maximum words) - Summarize the content added in the “What” section
-7. Why - (200 maximum words) - Summarize the content added in the “Why” section
-8. How - List of bullet points - Summarize the content added in the “How” section
-9. Further Reading - Name and the reference as shown in the template
-10. Send the PR
-11. Once the PR is merged, the public site will be updated within few minutes
-12. The contributors will also be updated under the post - Github image and name
-13. Things to consider when writing content
-
-- References should be from valid sources
-- Don't add lengthy content, instead refer to references for further reading. Stick to Description, Why and How sections
-- In the how section, if there are multiple methods, you should recommend one method.
