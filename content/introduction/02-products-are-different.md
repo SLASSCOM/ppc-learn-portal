@@ -9,6 +9,7 @@ metaTags:
   - Winning Product
 ---
 
+## Products require additional skills than mere software development
 
 Common mistake of novice product teams is that they overlook the specialty of 'product' development. Product development is vastly different from bespoke/enterprise application development. Following sections outline some of the reasons behind the differences:
 
