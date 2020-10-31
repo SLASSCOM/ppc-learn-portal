@@ -14,11 +14,11 @@ The market trend is lucrative. Despite that trend, many Software Products fail. 
 
 Let’s face the facts. Creating a market winning (leading) product is not easy. If that’s your goal, you need a massive amount of additional knowledge and skills beyond typical software development. You’re going to need a broader sense of the domain, market trends, product management techniques, customer engagement ability as well as resilient engineering capabilities. These skills are not taught at universities or gained through general software development work. “Winning Product” equips you with these tools to help you attain that market leading edge.
 
-## Products require additional skills than software development
+## Products require additional skills than mere software development
 
 Common mistake of novice product teams is that they overlook the specialty of 'product' development. Product development is vastly different from bespoke/enterprise application development. Following sections outline some of the reasons behind the differences.
 
-[Continue Reading](./introduction/02-products-are-different.md)
+[Continue Reading](./content/introduction/02-products-are-different.md)
 
 ## Products should excel in multiple areas
 
