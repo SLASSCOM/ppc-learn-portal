@@ -10,7 +10,7 @@ metaTags:
   - Winning Product
   - Customer Success
 ---
-
+# [Immerse](../3-immerse.md) > Operational Costs
 
 ## Why
 Operational estimation can cover three distinct aspects: technology, people, and support/maintenance. In the current era, businesses leveraging the cloud is a common occurrence. This makes estimating infrastructure costs more accurate and effortless with structured approaches.

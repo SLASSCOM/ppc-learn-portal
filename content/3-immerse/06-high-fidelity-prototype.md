@@ -27,6 +27,7 @@ checklist:
     expectation: Choose a tool that the team is comfortable with. i.e. Sketch, photoshop, Illustrator etc...
     version: 1.0.0
 ---
+# [Immerse](../3-immerse.md) > High Fidelity Prototype
 
 ## Why
 High fidelity prototypes take us as close as possible to an accurate representation of the application's user interfaces and interactions. It is a computer-based interactive representation of the product closest to the final design in terms of details and functionality. The hi-fi prototypes cover the user interface (UI) of the product in terms of visuals and aesthetics, and the user experience (UX) aspects in terms of interactions, user flow, and behavior.
