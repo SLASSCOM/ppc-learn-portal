@@ -15,6 +15,7 @@ checklist:
     expectation: Maintain a document explaining the different characteristics of each market segment.
     version: 1.0.0
 ---
+# Market Segmentation
 
 ## Why
 The information about potential target markets and customer segments helps to identify the pros/cons and personalize the marketing campaigns accordingly. It helps marketers to be efficient and minimize the risk of unsuccessful and ineffective marketing campaigns. 
