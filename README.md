@@ -1,4 +1,4 @@
-# Product & Platform Council (PPC)
+# PPC Academy
 
 An initiative by [SLASSCOM](http://slasscom.lk), the Product and Platform Council operate with the vision to build capability that would enable Sri Lankan enterprises to create high technology products and platforms that would attract global demand.
 
