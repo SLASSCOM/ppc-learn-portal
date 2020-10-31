@@ -32,6 +32,7 @@ metaTags:
   - Winning Product
   - Customer Success
 ---
+# [NextGen](../8-retire.md) > Digital Data Shredding
 
 ## Why
 Digital data shredding refers to the process of removing all data that is no longer needed. When retiring your legacy system, certain old data will become obsolete. Despite data storage expenses, various legal aspects often prevent you from keeping unnecessary data. If it’s required (e.g. business requirements) to keep historical data for analytics purposes, consider removing sensitive information (e.g. personal, medical, etc data) from the raw data. This process is well known as data anonymization.
