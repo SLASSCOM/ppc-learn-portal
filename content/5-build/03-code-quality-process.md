@@ -26,7 +26,7 @@ checklist:
     expectation: The team should maintain a log of root causes for the bugs observed. Discuss the root causes and find ways to avoid them in retros.
     version: 1.0.0
 ---
-
+# [Build](../5-build.md) > Code Quality Process
 
 ## Why
 A quality code makes software reliable, extendable, and maintainable. It reduces the frustrating bugs and design problems and manages risks of data loss, security incidents, and scaling problems. It’s much harder to read and understand a bad quality code than to write it, whereas quality code is easier, safer, and less time consuming to maintain. Good quality code can speed up long-term software development since it can be reused, and developers don’t have to spend much time fixing old bugs and polishing code. It also makes it easier for new project members who join the project.

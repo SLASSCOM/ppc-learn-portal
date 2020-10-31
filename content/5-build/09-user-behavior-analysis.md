@@ -21,6 +21,7 @@ checklist:
     expectation: It is necessary to inform the users that you collect the user's behavior data and the criteria for analysis to comply with privacy regulations like GDPR.
     version: 1.0.0
 ---
+# [Build](../5-build.md) > User Behavior Analysis
 
 ## Why
 User behavior analysis helps to identify most used features, rarely used features, high value delivering features, customer pains, abnormal user behaviors, data tampering, and unauthorized access attempts. Based on these data, a company can make decisions more effectively.

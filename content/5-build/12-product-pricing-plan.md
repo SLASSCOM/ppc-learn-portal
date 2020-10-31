@@ -26,6 +26,7 @@ checklist:
     expectation: Have you establish processes and practices to adjust the pricing depending on the market demands continuously.
     version: 1.0.0
 ---
+# [Build](../5-build.md) > Product Pricing Plan
 
 ## Why
 Pricing brings revenue, so businesses must pay more attention to decide the pricing strategy. The price must align with the value and market positioning to maximize revenue and profits. When determining the pricing strategy consider the value that your product/service provides and the market's willingness to pay for your product/service.

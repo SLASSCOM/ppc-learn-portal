@@ -21,6 +21,7 @@ checklist:
     expectation: The use of proven lead capture techniques will speed up the potential customer converting process. CMS tools could also help in this area.
     version: 1.0.0
 ---
+# [Build](../5-build.md) > Lead Capture/CMS
 
 ## Why
 Lead capture refers to the process of converting a lead to a paying customer. Companies capture details of the leads such as name, email, and phone numbers via newsletters and lead capture forms to follow up with them. Most CRM systems help in the lead capturing process. Businesses need to identify their leads and convince them to become paying customers to make profits. The process should include building the trust of the leads by educating them about the product and how it will help to solve their problems.
