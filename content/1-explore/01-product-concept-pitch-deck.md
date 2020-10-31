@@ -20,6 +20,7 @@ checklist:
     expectation: Your pitch deck should state the purpose, marketing and sales, milestones, competition, business model.
     version: 1.0.0
 ---
+# Product Concept Pitch Deck
 
 ## Why
 

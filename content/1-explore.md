@@ -11,7 +11,7 @@ This is the initial stage where the founder conceives the idea to solve a proble
 
 You should study and analyze different paths and possibilities the new solution may take. Activities include brainstorming for idea generation as well as studying competitive offerings, and research publications from the marketplace. This phase is somewhat similar to Divergence and Discover phases of the Design Thinking process.
 
-- [**Product Concept Pitch Desk:**](./1-explore/01-product-concept-pitch-deck.md) Create a pitch desk (or equivalent) to present the idea to different stakeholders such as investors, partners and potential customers.
+- [Product Concept Pitch Desk:](./1-explore/01-product-concept-pitch-deck.md) Create a pitch desk (or equivalent) to present the idea to different stakeholders such as investors, partners and potential customers.
 -	**Context/Competitor Analysis:** Research into current market state, domain trends and study existing competition to understand the context.
 -	**Commercial viability:** Evaluate business/financial viability to ensure long-term continuity and ROI.
 -	**Personas:** Analysis of related user personas to understand pains, gains and the behavior of users.
