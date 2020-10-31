@@ -1,10 +1,10 @@
-# Learn Portal [![Netlify Status](https://api.netlify.com/api/v1/badges/5d809d30-bf62-4829-90d9-86c83e147733/deploy-status)](https://app.netlify.com/sites/youthful-fermat-50c3cb/deploys)
+# Learn Portal
 
 This is the repository for learn.winningproduct.com portal. You can find gatsby in [`/portal`](/portal) and its learning content in [`/content`](/content).
 
-## How to contribute?
+## How to contribute
 
-1. Fork the Github repository - http://github.com/winningproduct/learn-portal/
+1. Fork the Github repository
 2. Find your knowledge area in the models folder
 3. Fill the given template (Included in each area document) with the following content
 4. Subtitle - (140 maximum words)
