@@ -1,12 +1,4 @@
-# PPC Academy
-
-The Product and Platform Council, an initiative by [SLASSCOM](http://slasscom.lk),  operates with the vision to develop capability that would enable Sri Lankan enterprises to create high tech products and platforms to attract global demand.
-
-This learning portal is a part of PPC Training and Academy to provide the essential knowledge required to build such products and platforms.
-
-* * *
-
-## Software Product and Platform Market
+# Software Product and Platform Market
 
 Every year, many ISVs (Independent Software Vendors) and Startups invest on digital services and products to develop and sustain their business. According to researchandmarkets.com the market size for SaaS (Software as a Service) alone, worthed $134.44 billion in 2018. This market growth is at a CAGR of 13.1% and believed to reach a staggering $220.21 billion by 2022.
 
