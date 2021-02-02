@@ -1,3 +1,9 @@
+| Webinars                                             | Published on |
+|------------------------------------------------------|-------------:|
+| [Ask Me Anything \| Episode 1 \| Chandika Jayasundara](https://youtu.be/V3rhQ3UVsGY) | Nov 21, 2020 |
+| [Ask Me Anything \| Episode 2 \| Lakmini Wijesundara](https://youtu.be/spMGTPYUL8Y)  | Jan 25, 2021 |
+
+
 # Product and Platform Market
 
 Every year, many ISVs (Independent Software Vendors) and Startups invest on digital services and products to develop and sustain their business. According to researchandmarkets.com the market size for SaaS (Software as a Service) alone, worthed $134.44 billion in 2018. This market growth is at a CAGR of 13.1% and believed to reach a staggering $220.21 billion by 2022.
