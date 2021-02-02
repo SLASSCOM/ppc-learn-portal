@@ -9,6 +9,7 @@ metaTags:
   - Winning Product
   - Customer Success
 ---
+# [Harvest](../7-harvest.md) > Monitoring and Incident Management
 
 ## Why
 

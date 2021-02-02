@@ -31,6 +31,7 @@ checklist:
     expectation: Once the update is completed, assess the impact and cost.
     version: 1.0.0
 ---
+# [Harvest](../7-harvest.md) > Technology Revamp/Migration Plan
 
 ## Why
 

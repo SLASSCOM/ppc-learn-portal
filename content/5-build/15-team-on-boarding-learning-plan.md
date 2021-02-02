@@ -26,6 +26,7 @@ checklist:
     expectation: Devise a proper program to continuously support the new recruit to effectively adapt to your organization(buddy program, mentor program etc.). This should include a mechanism to evaluate the effectiveness of new employee on-boarding as well.
     Version: 1.0.0
 ---
+# [Build](../5-build.md) > Team Onboarding & Learning Plan
 
 ## Why
 An effective team on-boarding and learning process allow a new employee to quickly acquire the necessary knowledge, skills, and behaviors required to effectively adapt to their job role within the company. It reduces new employee ramp-up time and helps them adapt to the company culture quickly.

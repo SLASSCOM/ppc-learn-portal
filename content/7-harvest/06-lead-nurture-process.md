@@ -9,6 +9,7 @@ metaTags:
   - Winning Product Canvas
   - User Experience
 ---
+# [Harvest](../7-harvest.md) > Lead nurture pipeline
 
 ## Why
 

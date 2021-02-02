@@ -30,10 +30,11 @@ checklist:
     expectation: This is especially needed when there is a portfolio of applications. Your product design should take necessary steps to have consistency among all applications.
     version: 1.0.0        
 ---
+# [Focus](../2-focus.md) > Productization Blueprint
 
 ## Why
 
-The Productization Blueprint is an essential early starter for product development. There are certain technical components that are not required/important in bespoke applications, but are crucial for products. This is because products are quite different from bespoke applications. Read [Products are Different](https://learn.winningproduct.com/introduction/02-products-are-different) topic to understand more.
+The Productization Blueprint is an essential early starter for product development. There are certain technical components that are not required/important in bespoke applications, but are crucial for products. This is because products are quite different from bespoke applications. Read [Products are Different](../introduction/02-products-are-different) topic to understand more.
 
 ## How
 

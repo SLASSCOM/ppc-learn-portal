@@ -36,7 +36,7 @@ checklist:
     expectation: Team should have at least consider a data model to represent different dimensions of data. There could be a data analytics model such as a Kimball model that is independent of the main data model.
     version: 1.0.0
 ---
-
+# [Immerse](../3-immerse.md) > Data Architecture
 
 ## Why
 Data architecture provides meaning to all the data that is collected. This gives the ability to the system to work with accurate information efficiently to solve the business problem. In addition to that, it gives a new opportunity to analyze and predict trends in information and to generate business insights.

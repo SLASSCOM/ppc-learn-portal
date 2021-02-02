@@ -21,6 +21,7 @@ checklist:
     expectation: Received market feedback should be managed and utilized in product development (e.g. feature designing, UX improvements, etc)
     version: 1.0.0
 ---
+# [Build](../5-build.md) > Market Feedback Capture
 
 ## Why
 

@@ -25,7 +25,7 @@ checklist:
     expectation: The team has identified the target demographies clearly and should be aware of the preferences of those demographies.
     version: 1.0.0
 ---
-
+# [Immerse](../3-immerse.md) > Brand Guide
 
 ## Why
 Brand guidelines dictate the content of a logo, blog, website, advertisement, and similar marketing collateral. It ensures consistency across all branding collateral published by the company. There is no confusion to the target audience it is reaching, as it distinguishes the brand image strongly from the competition.

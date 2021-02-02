@@ -26,6 +26,7 @@ checklist:
     expectation: Identifying the best technology and tools to develop the automation framework is important in order match with the application under test and team composition.
     version: 1.0.0
 ---
+# [Build](../5-build.md) > Test Automation Setup
 
 ## Why
 Test automation helps teams to reduce human error during repetitive testing. In a world where continuous release and testing is increasingly becoming the norm, the test activities must be performed accurately and efficiently. Automation testing also reduces the time consumption of testing, as it’s faster than human testing, and execution can be triggered multiple times immediately and sometimes in parallel.

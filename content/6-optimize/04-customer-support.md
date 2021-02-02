@@ -25,6 +25,7 @@ checklist:
     expectation: The team should have identified the legal constraints of their product after it has been sold. This could be various SLAs or other legal technicalities.
     version: 1.0.0
 ---
+# [Optimize](../6-optimize.md) > Customer Support
 
 ## Why
 `A satisfied customer is one who will continue to buy from you, seldom shop around, refer other customers and in general be a superstar advocate for your business.` - _Gregory Ciotti_

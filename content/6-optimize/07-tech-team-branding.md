@@ -25,6 +25,7 @@ metaTags:
     expectation: While positioning the team for technical soundness, it is also important to circle around a unique aspect which the team knows better than anyone else in the world. The team should have found that niche and their presentations and publications needs to wrap around that unique niche.
     version: 1.0.0
 ---
+# [Optimize](../6-optimize.md) > Tech Team Branding
 
 ## Why
 A strong positive brand helps you to get things done more effectively because it establishes specialization and enhances delivery value. Team branding can also provide an invaluable path to productivity. It creates renewed inspiration and engagement within the team to become a high-performing product engineering team. Effective team branding results in recognition from customers and peers. With recognition comes feedback and insight, which assists in making your team even more streamlined and efficient.

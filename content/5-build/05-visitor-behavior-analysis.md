@@ -1,12 +1,12 @@
 ---
 published: true
-title: "Visitor Behaviour Analysis"
-metaTitle: "Visitor Behaviour Analysis | WP"
+title: "Visitor Behavior Analysis"
+metaTitle: "Visitor Behavior Analysis | WP"
 metaDescription: "Build and evolve plans analyze the patterns of potential customers to your marketing sites."
 
 metaTags:
   - Build
-  - Visitor Behaviour Analysis
+  - Visitor Behavior Analysis
   - Winning Product Canvas
   - User Experience
 checklist: 
@@ -21,6 +21,7 @@ checklist:
     expectation: The team should have a strategy in optimizing user experience using all the insights captured from marketing sites.
     version: 1.0.0
 ---
+# [Build](../5-build.md) > Visitor Behavior Analysis
 
 ## Why
 Visitor behavior analysis is used to increase website conversion by building a quality website experience for users. It helps group the audience based on their common traits and define suitable targeting strategies for them. That minimizes the friction across the funnel and increases the ROI.

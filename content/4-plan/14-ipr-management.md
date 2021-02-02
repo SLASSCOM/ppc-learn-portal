@@ -20,6 +20,7 @@ checklist:
     expectation: You should have the required legal agreements to sign with the employees, outsourced development teams, business partnets etc...
     version: 1.0.0
 ---
+# [Plan](../4-plan.md) > IPR Management
 
 ## Why
 Delivering innovations better than competitors is a primary goal of a winning product. Establishing and protecting your intellectual rights is important to achieve this goal. This is a step towards assuring that your IP cannot be illegally copied by your competition. In addition, ensure that your product doesn’t violate the IP rights of any other party to avoid possible legal complications.

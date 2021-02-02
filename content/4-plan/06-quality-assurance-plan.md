@@ -25,6 +25,7 @@ checklist:
     expectation: Testing the non-functional requirments should be a part of your Quality Control process. 
     version: 1.0.0
 ---
+# [Plan](../4-plan.md) > Quality Assurance Plan
 
 ## Why
 A QA plan is critically important to ensure the quality of the product or service. It helps to:

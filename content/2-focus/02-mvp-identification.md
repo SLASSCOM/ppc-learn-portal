@@ -27,7 +27,7 @@ metaTags:
   - Winning Product
   - Technology Mastery
 ---
-
+# [Focus](../2-focus.md) > MVP Identification
 
 ## Why
 

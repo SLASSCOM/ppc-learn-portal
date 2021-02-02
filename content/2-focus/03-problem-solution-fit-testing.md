@@ -27,6 +27,7 @@ checklist:
     expectation: There is no other way of testing your problem solution fit other than talking to your potential customers. You can make calls, schedule meetings or send out surveys to collect information on how important it is for them to have the identified problem solved.
     version: 1.0.0
 ---
+# [Focus](../2-focus.md) > Problem Solution Fit Testing
 
 ## Why
 According to a post-mortem research of global startups conducted by the venture capital database [CB Insights](https://www.cbinsights.com/research/), the most common reason why new ventures fail is because they build and launch something customers don’t want or don't want to pay for. If your target customers need to be 'educated' for them to understand the need for your product, you are probably solving a non-existant problem.

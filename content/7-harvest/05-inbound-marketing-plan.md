@@ -9,6 +9,7 @@ metaTags:
   - Winning Product
   - Market Sense
 ---
+# [Harvest](../7-harvest.md) > Inbound Market Planning
 
 ## Why
 A 2011 Hubspot market research found that leads generated from inbound marketing efforts cost 62% less than leads from outbound marketing efforts. Since users themselves search and land on content, it builds more trust than outbound methods.

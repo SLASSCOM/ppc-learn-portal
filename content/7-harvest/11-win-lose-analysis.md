@@ -22,7 +22,7 @@ metaTags:
   - Winning Product Canvas
   - Market Sense
 ---
-
+# [Harvest](../7-harvest.md) > Win-lose Analysis
 
 ## Why
 

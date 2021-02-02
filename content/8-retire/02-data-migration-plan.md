@@ -25,6 +25,7 @@ checklist:
     expectation: Which data will your migration require? And any relevant reports for the legacy data, including the frequency of use and whether or not you analyze trends in historical data.
     version: 1.0.0
 ---
+# [NextGen](../8-retire.md) > Data Migration Plan
 
 ## Why
 

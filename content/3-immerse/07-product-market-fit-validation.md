@@ -21,7 +21,7 @@ checklist:
     version: 1.0.0
 
 ---
-
+# [Immerse](../3-immerse.md) > Product Market Fit Validation
 
 ## Why
 “The only thing that matters is getting to product-market fit” - _Andreessen Horowitz_

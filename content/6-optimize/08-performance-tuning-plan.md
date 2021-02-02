@@ -26,6 +26,7 @@ metaTags:
   - Winning Product
   - Technology Mastery
 ---
+# [Optimize](../6-optimize.md) > Performance Tuning Plan
 
 ## Why
 According to user experience research, more than 40% of users abandon the software product if the page loading time gets delayed for more than 2 seconds. If the product's business is also relying on the API economy, poor product API performance can have a direct impact on the revenue.

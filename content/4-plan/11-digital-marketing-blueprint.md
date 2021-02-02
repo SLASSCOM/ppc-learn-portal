@@ -25,7 +25,7 @@ checklist:
     expectation: Gather what you have, and categorize each of your channels, so you have a clear picture of your existing owned, earned, and paid media.
     version: 1.0.0
 ---
-
+# [Plan](../4-plan.md) > Digital Marketing Blueprint
 
 ## Why
 Exponential digital growth across the world means that a strong focus on digital marketing is required right from the start. Why? Because digital marketing transcends physical borders. A good digital marketing strategy will allow you to reach a global marketplace from anywhere in the world, for less money than traditional marketing. More importantly, you can get to know your audience personally and track responses to your marketing efforts almost immediately. You can then realign your marketing according to responses to ensure a fully optimized digital marketing strategy.

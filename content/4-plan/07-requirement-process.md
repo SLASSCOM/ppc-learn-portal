@@ -27,7 +27,7 @@ metaTags:
   - Winning Product
   - Technology Mastery
 ---
-
+# [Plan](../4-plan.md) > Requirement Process
 
 ## Why
 The main intention of a requirement process is to confirm that the correct requirements are captured. A product should ultimately solve customers' need. That’s why investigating and capturing the right requirement is crucial. It’s about finding what users are willing to pay for. The captured requirements need to be documented to help with information retention and communication. This also act as evidence for any further clarification.

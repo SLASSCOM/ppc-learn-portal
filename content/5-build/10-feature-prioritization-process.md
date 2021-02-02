@@ -16,6 +16,7 @@ checklist:
     expectation: Define the priority levels for features and establish a process to prioritize work, and communicate to all the stakeholders in advance before moving to development.
     version: 1.0.0
 ---
+# [Build](../5-build.md) > Feature Prioritization Process
 
 ## Why
 If feature prioritization is not paid enough attention, less critical features will be developed and released to production, which leads to wasted time and money for features that no one needs. It’s catastrophic for startups that operate on limited budgets and time.

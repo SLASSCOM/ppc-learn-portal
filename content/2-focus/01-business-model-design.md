@@ -32,6 +32,7 @@ checklist:
     expectation: Analyze and find out how coherent the different segments are in your business model.
     version: 1.0.0
 ---
+# [Focus](../2-focus.md) > Business Model Design
 
 ## Why
 

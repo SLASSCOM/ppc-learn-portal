@@ -25,6 +25,7 @@ checklist:
     expectation: At the end of this activity there should be a compelling story that is powerful enough to influence customers yet familiar to their reality.
     version: 1.0.0
 ---
+# [Focus](../2-focus.md) > Brand Story Development
 
 ## Why
 

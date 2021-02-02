@@ -27,6 +27,7 @@ checklist:
     expectation: Social media promotions are an easy way of connecting with customers. You should identify how to use social media promotions effectively for your product.
     version: 1.0.0
 ---
+# [Optimize](../6-optimize.md) > Promotions Process
 
 ## Why
 A promotional plan covers all types of communication between the vendor and the target market audience of potential or existing clients. There are four basic components of a promotion plan:

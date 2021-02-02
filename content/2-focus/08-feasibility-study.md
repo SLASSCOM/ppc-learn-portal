@@ -30,6 +30,7 @@ checklist:
     expectation: There should be evidence to prove that the team has identified the key quality attributes properly and their celling constraints. Team should have tested the architecture for those corner cases. 
     version: 1.0.0  
 ---
+# [Focus](../2-focus.md) > Feasibility Study
 
 ## Why
 

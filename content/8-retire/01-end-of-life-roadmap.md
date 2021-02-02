@@ -27,6 +27,7 @@ checklist:
     expectation: Notifiying the customers about the EOL policy in advance is crucial as that will help the customers to prepare to face the situation.
     version: 1.0.0
 ---
+# [NextGen](../8-retire.md) > End-of-life Roadmap
 
 ## Why
 

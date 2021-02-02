@@ -27,6 +27,7 @@ metaTags:
   - Winning Product
   - Technology Mastery
 ---
+# [Optimize](../6-optimize.md) > Cost Optimization
 
 ## Why
 The main objective of this strategic action is to optimize operational costs. Reducing the bottom line directly translates into more profits and at this stage in the product development life cycle, it makes sense to focus even more on profits.

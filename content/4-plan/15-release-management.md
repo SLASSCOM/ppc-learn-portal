@@ -10,6 +10,7 @@ metaTags:
   - Winning Product
   - Technology Mastery
 ---
+# [Plan](../4-plan.md) > Release Management
 
 ## Why
 Every software product needs to evolve with time to serve existing customers and to attract new ones. These changes can be in the form of bug fixes, new features, improving nonfunctional aspects (performance, security, etc.), technology shift, UX revamp, etc. With frequent changes you need a systematic process to manage these releases. Your system is likely to be used by many existing customers and new releases should ensure there’s no adverse effect to their usage. Continuously assure the quality of the product when making frequent releases. Customers should be notified both for awareness and for marketing purposes about the new changes. There’s an increased need for a proper release management plan as the product matures.

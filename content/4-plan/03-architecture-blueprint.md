@@ -26,7 +26,7 @@ checklist:
     expectation: Artefact covering alternative architecture analysis covering aspects of typical quality attributes of the product
     version: 1.0.0
 ---
-
+# [Plan](../4-plan.md) > Architecture Blueprint
 
 ## Why
 

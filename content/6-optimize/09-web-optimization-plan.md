@@ -25,6 +25,7 @@ metaTags:
   - Winning Product
   - User Experience
 ---
+# [Optimize](../6-optimize.md) > Web Optimization Plan
 
 ## Why
 A web optimization plan helps to attract more customers to your website and improve the conversion rate by optimizing web pages with keywords, meta descriptions, and titles relevant to the web site content. It helps boost the website ranking on a popular search engine so your customers can easily find your website.

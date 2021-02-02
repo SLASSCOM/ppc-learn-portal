@@ -35,6 +35,7 @@ checklist:
     expectation: All the ceiling values of non-functional requirements needs to be identified. There should be evidences to make sure that the technical architecture can support such data loads specified in SLAs.
     version: 1.0.0      
 ---
+# [Focus](../2-focus.md) > Technical Architecture
 
 ## Why
 Technical architecture defines and justifies the decisions and constructs of the underlying platform of the software product. It includes functional and non-functional considerations and constraints, tech-stack selection, platform selection, architecture diagrams, deployment model and DevOps process.

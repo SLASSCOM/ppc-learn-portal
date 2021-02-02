@@ -22,6 +22,7 @@ checklist:
     expectation: You should identify how to track the license expiration, payments and sending reminders.
     version: 1.0.0
 ---
+# [Build](../5-build.md) > User License Management
 
 ## Why
 A license establishes the legal right for the customer to use a product or service. In cloud-based SAAS applications, a license is usually subscription-based and helps companies to collect revenue from customers methodically.

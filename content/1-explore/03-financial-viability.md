@@ -32,6 +32,7 @@ checklist:
     expectation: Analysis of competitor analysis and justification on why would customers favor our product at the specified price point. 
     version: 1.0.0
 ---
+# [Explore](../1-explore.md) > Financial Viability
 
 ## Why
 

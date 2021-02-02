@@ -21,6 +21,7 @@ checklist:
     expectation: You need to perform product portfolio management activities, from planning to execution, to optimize the product-market fit.
     version: 1.0.0
 ---
+# [Build](../5-build.md) > Portfolio Management
 
 ## Why
 

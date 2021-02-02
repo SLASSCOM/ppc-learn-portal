@@ -21,6 +21,7 @@ checklist:
     expectation: The team should have a strategy to allocate sufficient capacity to address technical debt.
     version: 1.0.0
 ---
+# [Build](../5-build.md) > Technical Debt Management
 
 ## Why
 Technical debt is a form of accumulated bugs or technical shortcuts used during development. Technical debt should be managed during the product life cycle. However, it does not mean there should be zero technical debt. It is more about managing product code deficiencies in a more effective manner that adds value to the business & product.

@@ -36,6 +36,7 @@ checklist:
     expectation: It's essential to prepare and establish best practices to prevent threats and to prepare to respond if any such activity occurs.
     version: 1.0.0
 ---
+# [Build](../5-build.md) > Data Privacy Protection
 
 ## Why
 Data and customers are vital assets to a company. Data collected from customers must be handled carefully with transparency and adhering to privacy policies, which build trust and accountability with your customers.

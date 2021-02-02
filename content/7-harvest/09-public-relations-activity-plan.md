@@ -25,6 +25,7 @@ checklist:
     expectation: Identify events or activities that present great opportunities for good public relations activities. In doing so, it’s a good idea to look at both internal and external events.
     version: 1.0.0
 ---
+# [Harvest](../7-harvest.md) > Public Relations Activity Plan
 
 ## Why
 Earn the trust of the marketplace, establish relationships within the product ecosystem, and create brand awareness. Continue to do business with customers and social media marketing, but with lower costs than traditional advertising.

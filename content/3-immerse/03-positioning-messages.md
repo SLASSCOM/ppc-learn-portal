@@ -21,6 +21,7 @@ checklist:
     expectation: The positioning message should be short, easy to comprehend and easy to remember.
     version: 1.0.0
 ---
+# [Immerse](../3-immerse.md) > Positioning Messages
 
 ## Why
 Product positioning helps to place the product in the consumer's mind relative to competing products. E.g., Car companies position their products as fast, fun, exciting, and fuel-efficient. The ultimate goal of a positioning message is to identify positions in the market that represent unmet needs. If your product fills those needs better than any other product, you will be naturally differentiated from it.

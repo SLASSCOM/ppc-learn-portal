@@ -22,6 +22,7 @@ checklist:
     expectation: Maintain a document explaining the mappings pain relievers offered and the gain creators for the targeted customer profile from your product.
     version: 1.0.0
 ---
+# [Explore](../1-explore.md) > Value Proposition
 
 ## Why
 A product or service is introduced to the market to provide a solution for a problem. Understand the type of tasks sought by the targeted audience, the pains currently faced, and what gains they expect and how they measure it. Your product needs to provide relief to the pains faced by the audience, and extend the gains required by them.

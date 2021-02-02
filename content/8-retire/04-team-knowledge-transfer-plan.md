@@ -27,6 +27,7 @@ metaTags:
   - Winning Product Canvas
   - Technology Mastery
 ---
+# [NextGen](../8-retire.md) > Team Knowledge Transfer Plan
 
 ## Why
 Knowledge transfer is a must during product retirement. This process involves both documentation and learning of both tacit and implicit knowledge that the team has gathered over time. First, processes and tools need to be placed to record both technical and domain knowledge. Then, learning and getting new team members up to speed quickly with all relevant information should be facilitated.
