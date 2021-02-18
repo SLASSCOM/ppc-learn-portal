@@ -2,6 +2,7 @@
 |------------------------------------------------------|-------------:|
 | [Ask Me Anything \| Episode 1 \| Chandika Jayasundara](https://youtu.be/V3rhQ3UVsGY) | Nov 21, 2020 |
 | [Ask Me Anything \| Episode 2 \| Lakmini Wijesundara](https://youtu.be/spMGTPYUL8Y)  | Jan 25, 2021 |
+| [Ask Me Anything \| Episode 3 \| Ranil Vitarana](https://youtu.be/9jpfEd7PNAY)  | Feb 18, 2021 |
 
 
 # Product and Platform Market
