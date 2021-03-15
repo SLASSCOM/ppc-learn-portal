@@ -57,18 +57,3 @@ As per [winningroduct.com](https://www.winningproduct.com/) the product's lifecy
 | [Harvest](./content/7-harvest.md)           | This is where your product returns back the investment. The focus of this stage is to retain happy and loyal customers, up sell more and get referrals to grow the business. You need very stable operational processes to respond to the customer issues and inquiries. Build and tune your sales and marketing processes to capture a greater market share. |
 | [NextGen](./content/8-retire.md)           | Regardless of how well the product is built and maintained, there is always a retirement time for products. Retirement can be called upon by a major technology or user behavior change in the marketplace. At this point you re-invent the technology platform / business model / user experience to keep an edge in the market. You should be watchful to identify this need so that they are able to disrupt their own business model before a competitor does. When a next gen product is planned, it’s important to do it with minimal disturbance to the existing customers. You need to have clear and pain-free migration paths available and provide incentives/motivation for them to move-on. Long-term side-by-side operation of 2 major versions can be an extremely costly operation. For this reason, you must plan to complete migrating all your customers within a planned time span. |
 
-<script async src=https://www.googletagmanager.com/gtag/js?id=G-R0EBD68SGY></script>
-
-<script>
-
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag(){dataLayer.push(arguments);}
-
-  gtag('js', new Date());
-
- 
-
-  gtag('config', 'G-R0EBD68SGY');
-
-</script>
