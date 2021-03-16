@@ -2,13 +2,3 @@ theme: jekyll-theme-minimal
 title: Product & Platform Academy
 description: The Product and Platform Council (PPC), an initiative by SLASSCOM (http://slasscom.lk), operates with the vision to develop capability that would enable Sri Lankan enterprises to create high tech products and platforms to attract global demand. <br/> <br/> This learning portal is to provide the essential knowledge required to build such products and platforms. <br/> <br/> The portal consists of a collection of essential topics for teams building digital products of platforms. The topics here are curated through volunteering efforts of industry professionals.
 logo: ./img/slasscom-logo-2.png
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src=https://www.googletagmanager.com/gtag/js?id=G-R0EBD68SGY></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-R0EBD68SGY');
-</script>
