@@ -405,16 +405,17 @@ color: #4b5568;
 
 tr{
   border-radius: 1px solid red;
-}
+} 
 
 .pcc__topic__bottom__navigation div{  
   text-align: center;
-  width: 112px;
+  width: 100px;
   margin-right: 10px;
   height : 65px;
   border-radius: 5px;
   padding-top: 16px;
   font-weight: bold;
+  margin-bottom: 10px;
 }
 
 .pcc__topic__bottom__navigation a{
@@ -500,3 +501,4 @@ tr{
 .list-group-item-pcc-side-nav:hover{ 
   padding-left: 20px;
 }
+
