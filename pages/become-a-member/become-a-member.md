@@ -15,4 +15,4 @@ permalink: "/become-a-member/"
   3. Be eligible for specially curated sessions for members
   4. Get your product listed in PPC member directory to expand the reach
   
-[Click here to continute:](https://docs.google.com/forms/d/e/1FAIpQLSesLl6NGtpgCwpozq5Dfle2lmbMQN3i3cVDUHeJEojWZmDkgw/viewform)
+[Click here to continue:](https://docs.google.com/forms/d/e/1FAIpQLSesLl6NGtpgCwpozq5Dfle2lmbMQN3i3cVDUHeJEojWZmDkgw/viewform)
