@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
+
+<title>{{ page.title }} | {{site.title}}</title>
+
+{% seo %}
+
+<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+
+<!-- custom CSS - Remove this if you don't use it or choose to customize the stylesheet with sass-->
+<link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+<!-- custom CSS end-->
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
+    
+{% if jekyll.environment == "production" %}       
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '{{site.ganalytics}}');
+</script>
+{% endif %}
+   
+</head>   
+    
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+<body class="{{ layout }}">
+
+    
+<!-- Menu Navigation
+================================================== -->
+  <div class="navigation-wrap start-header start-style">
+    <div class="top-bar d-flex justify-content-between align-items-center px-5">
+      <div class="logo" > 
+        <a  href="{{ site.baseurl }}/"><img class="mr-2"  src="{{site.baseurl}}/{{site.logo}}" alt="logo"> </a>
+      </div>
+      <div class="top-menu d-none d-lg-block">
+          <ul class="list-inline m-0">
+              <li class="list-inline-item pr-4"> <a href="{{site.baseurl}}/">Home</a> </li>
+              <li class="list-inline-item pr-4"><a href="#ppc-topics">Knowladge Area</a> </li>
+              <li class="list-inline-item pr-4"><a href="#webinars">Webinars</a> </li>
+              <li class="list-inline-item pr-4"><a href="#events">Events</a> </li>
+              <li class="list-inline-item pr-4"><a class="cta"href=" {{site.baseurl}}/become-a-member">Become a member</a> </li>
+              <li class="list-inline-item"><a href="{{site.baseurl}}/faq">FAQ</a> </li>
+          </ul>
+      </div>
+      <button id="menu-toggler" data-class="menu-active" class="hamburger d-block d-lg-none">
+        <span class="hamburger-line hamburger-line-top"></span>
+        <span class="hamburger-line hamburger-line-middle"></span>
+        <span class="hamburger-line hamburger-line-bottom"></span>
+      </button> 
+    </div>
+    <div class="primary-menu  d-lg-none">
+      <ul class="list-unstyled m-0">
+          <li class="menu-item text-center"> <a href="{{site.baseurl}}/">Home</a> </li>
+          <li class="menu-item text-center"><a href="#ppc-topics">Knowladge Area</a> </li>
+          <li class="menu-item text-center"><a href="#webinars">Webinars</a> </li>
+          <li class="menu-item text-center"><a href="#events">Events</a> </li>
+          <li class="menu-item text-center"><a class="cta" href=" {{site.baseurl}}/become-a-member">Become a member</a> </li>
+          <li class="menu-item text-center"><a href="{{site.baseurl}}/faq">FAQ</a> </li>
+      </ul>
+    </div> 
+  </div>
+  {% if page.url == "/" %}  
+    <div class="banner d-flex justify-content-center align-items-center flex-column">
+        <div class="banner-title">
+            <h1> Welcome to ppc academy portal </h1>
+        </div>
+        <div class="banner-description">
+            <h3>This learning portal is to provide the essential knowledge <br> required to build products and platforms. </h3>
+        </div>
+        <div class="banner-buttons d-flex flex-row mt-4" >
+            <a class="btn-main mr-4" href=" {{site.baseurl}}/become-a-member">Become a member</a>
+            <a class="btn-outline" href="https://slasscom.lk/product-and-platform-council-ppc/">Learn More about PPC</a>
+        </div>
+    </div> 
+    <section>
+      <div class="into-text">
+          <div class="container">
+              <p>
+                  The portal consists of a collection of essential topics for teams building digital products of platforms. The topics here are curated through volunteering efforts of industry professionals by <a href="https://slasscom.lk">SLASSCOM</a>. 
+              </p>
+          </div>
+      </div>
+  </section>
+  {% endif %}
+ 
+
+    
+<!-- Container
+================================================== -->    
+<main class="container-body">   
+      {{ content }}  
+</main>
+
+<!-- Footer
+================================================== -->    
+ 
+  <section class="mt-100">
+    <!-- Footer -->
+    <footer class="footer text-white pt-4">
+      <!-- Grid container -->
+      <div class="container ">
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-lg-6 col-md-12 mb-4 mb-md-0 mt-5">
+            <img src="{{site.baseurl}}/{{site.footer_logo}}" alt="">
+            <div class="mt-40">
+            Copyright © 2021 SLASSCOM 
+            </div>
+          </div>
+          <!--Grid column--> 
+
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+            <h5 class="text-uppercase">Quick Links</h5> 
+            <ul class="list-unstyled mb-0">
+              <li>
+                <a href="{{site.baseurl}}/" class="text-white">Home</a>
+              </li>
+              <li>
+                <a href="#" class="text-white">About us</a>
+              </li>
+              <li>
+                <a href="#ppc-topics" class="text-white">Knowledge areas</a>
+              </li>
+              <li>
+                <a href="#!" class="text-white">Webinars</a>
+              </li>
+              <li>
+                <a href="#events" class="text-white">Events</a>
+              </li>
+              <li>
+                <a href="{{site.baseurl}}/faq" class="text-white">FAQ</a>
+              </li>
+            </ul>
+          </div>
+          <!--Grid column-->
+  
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+            <h5 class="text-uppercase mb-0">Become a member</h5>
+                <br>
+            <ul class="list-unstyled">
+
+              <li>
+                Discover new ways to level up your career, build better products, and lead successful product teams with us.
+              </li>
+              <a class="btn-main-sm mt-3" href=" {{site.baseurl}}/become-a-member">Become a member</a>
+              
+            </ul>
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </div>
+      <!-- Grid container -->
+  
+      <!-- Copyright -->
+      <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        © 2021 Copyright:
+        <a class="text-white" href="https://mdbootstrap.com/">SLASSCOM</a>
+      </div>
+      <!-- Copyright -->
+    </footer>
+    <!-- Footer -->
+  </section>
+ 
+
+<!-- JavaScript
+================================================== -->    
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>   
+<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>   
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>  
+<!-- <script   src="https://code.jquery.com/jquery-3.6.0.min.js"   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="   crossorigin="anonymous"></script>   -->
+<script>
+  $(document).ready(function() {
+// Toggle menu on click
+$("#menu-toggler").click(function() {
+toggleBodyClass("menu-active");
+});
+
+function toggleBodyClass(className) {
+document.body.classList.toggle(className);
+}
+
+});
+
+
+</script>
+</body>
+    
+</html>

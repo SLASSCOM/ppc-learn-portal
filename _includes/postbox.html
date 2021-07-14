@@ -1,0 +1,22 @@
+<div class="post"> 
+    <h3 class="post-title">
+        {{ post.title }}
+    </h3>
+    <p class="post-content"> 
+        {% if post.continuereading %} 
+            {{ post.excerpt | strip_html   }} 
+            <a href="{{ post.url | absolute_url }}">
+                continu reading
+            </a>
+        {% else %}
+            {% if post.fullarticle %} 
+                {{ post.content}}
+            {% else %}
+                {{ post.excerpt   }} 
+                {% if post.tag == 'pcc_academy_topics' %} 
+                    {% include ppc-topic-bottom-navigation.html %}
+                {% endif %}
+            {% endif %}
+        {% endif %}
+    </p>  
+</div> 
